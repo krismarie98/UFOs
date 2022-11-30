@@ -8,3 +8,5 @@
 #### This is an example of data that has been filtered. In this instance the user only wanted to see data that had the shape circle.
 ![image](https://user-images.githubusercontent.com/112527054/204892888-c3530175-8c67-409f-9b4a-a06a184e2660.png)
 ### Summary:
+* #### One drawback of this page is that when the user originally goes to the page there is a lot of data so they have to scroll through it to see it all. Once the data is filtered there is less but it can be a lot at first.
+* #### I think it would be useful to have the data table be multiple page so that it may be less confusing and for there to be a count of the records. Additionally, I think it would be good to filter down the data more and only show certain columns. for example, if the user only wanted to see data had the shape circle but also just wants to see the city and state and not the rest of the columns such as duration.
